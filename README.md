@@ -1,2 +1,2 @@
-# spoticord
-Shows Spotify current playing song in Discord as RPC
+# Spoticord
+This python project were created because Discord's RPC for Spotify not working properly and sometimes don't even appear.
